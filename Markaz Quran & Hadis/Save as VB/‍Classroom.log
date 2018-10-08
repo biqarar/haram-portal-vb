@@ -1,0 +1,11 @@
+Line 108: Class ComctlLib.ProgressBar of control ProgressBar1 was not a loaded control class.
+Line 2259: Class ComctlLib.StatusBar of control stb1 was not a loaded control class.
+Line 115: The property name _ExtentX in ProgressBar1 is invalid.
+Line 116: The property name _ExtentY in ProgressBar1 is invalid.
+Line 117: The property name _Version in ProgressBar1 is invalid.
+Line 119: The property name Max in ProgressBar1 is invalid.
+Line 2266: The property name _ExtentX in stb1 is invalid.
+Line 2267: The property name _ExtentY in stb1 is invalid.
+Line 2268: The property name SimpleText in stb1 is invalid.
+Line 2269: The property name _Version in stb1 is invalid.
+Line 2296: The property name Panels in stb1 is invalid.
